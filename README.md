@@ -4,3 +4,6 @@ This current project is a website that will have recipes on it. To begin with I 
 
 <!-- Credit to Elisa Stamm for the penne recipe on allrecipes.com
 Source: https://www.allrecipes.com/recipe/193187/tomato-basil-penne-pasta/ -->
+
+<!-- Credit to Nicole Modic for the steak recipe on kalejunkie.com
+Source: https://kalejunkie.com/how-to-make-the-perfect-pan-seared-steak/ -->
